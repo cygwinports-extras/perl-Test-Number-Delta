@@ -1,0 +1,12 @@
+CPAN_AUTHOR=dagolden
+inherit perl
+
+NAME="perl-Test-Number-Delta"
+VERSION=1.03
+RELEASE=2
+CATEGORY="Perl"
+SUMMARY="Perl numeric delta testing module"
+DESCRIPTION="Perl module to compare the difference between numbers
+against a given tolerance"
+
+ARCH=noarch

@@ -1,5 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl numeric delta testing module"
-ldesc: "Perl module to compare the difference between numbers
-against a given tolerance"
